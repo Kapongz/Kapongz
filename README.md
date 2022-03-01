@@ -1,6 +1,6 @@
 ### Hello I'm Pong 👋
 
-[![160744959694494596]( https://i.ibb.co/HXHSXnc/Kapong-Mini.png )](https://github.com/Kapongz)
+[![160744959694494596]( https://i.ibb.co/HXHSXnc/Kapong-Mini.png )](https://github.com/Kapongz?tab=repositories)
 
 <!--  <img src="https://i.ibb.co/HXHSXnc/Kapong-Mini.png" alt="Kapong-Mini" border="0" /> -->
 
