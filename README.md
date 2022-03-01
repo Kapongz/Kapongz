@@ -1,6 +1,6 @@
-### ສະບາຍດີທຸກຄົນ  👋
+### Hello I'm Pong 👋
 
-[![160744959694494596]( https://i.ibb.co/HXHSXnc/Kapong-Mini.png )]()
+[![160744959694494596]( https://i.ibb.co/HXHSXnc/Kapong-Mini.png )](https://github.com/Kapongz)
 
 <!--  <img src="https://i.ibb.co/HXHSXnc/Kapong-Mini.png" alt="Kapong-Mini" border="0" /> -->
 
