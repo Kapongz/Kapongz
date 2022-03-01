@@ -1,7 +1,8 @@
 ### ສະບາຍດີທຸກຄົນ  👋
 
-<!-- [![160744959694494596](  )]()
+<!-- [![160744959694494596]( https://i.ibb.co/HXHSXnc/Kapong-Mini.png )]()
  -->
+ <img src="https://i.ibb.co/HXHSXnc/Kapong-Mini.png" alt="Kapong-Mini" border="0" />
 
 
 **Pong-Keosithong/Pong-Keosithong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
