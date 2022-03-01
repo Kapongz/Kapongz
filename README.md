@@ -4,7 +4,7 @@
 
 <!--  <img src="https://i.ibb.co/HXHSXnc/Kapong-Mini.png" alt="Kapong-Mini" border="0" /> -->
 
-
+<img src="{https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white}" />
 
 
 Here are some ideas to get you started:
