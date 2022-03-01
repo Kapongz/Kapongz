@@ -6,6 +6,7 @@
 
 <!-- <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> -->
 [![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1?si=a4fe6c2ff26948e7)
+![image](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1?si=a4fe6c2ff26948e7)
 
 Here are some ideas to get you started:
 
