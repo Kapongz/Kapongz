@@ -1,4 +1,4 @@
-### Hello I'm Pong 👋 I'm a Student at National University of Laos![LaosGIF](https://user-images.githubusercontent.com/85826116/156220928-11d3111a-a4a1-4c68-a80b-91251e7bd6d0.gif)
+### Hello I'm Pong 👋 I'm a Student at National University of Laos 🇱🇦
 
 
 [![160744959694494596]( https://i.ibb.co/HXHSXnc/Kapong-Mini.png )](https://github.com/Kapongz?tab=repositories)
