@@ -1,7 +1,3 @@
-### Hello I'm Pong 👋 I'm a Student at National University of Laos 🇱🇦
-
-
-
 
 <!--  <img src="https://i.ibb.co/HXHSXnc/Kapong-Mini.png" alt="Kapong-Mini" border="0" /> -->
 
