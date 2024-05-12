@@ -10,6 +10,9 @@
 ### Frameworks 
 
 <p align="left">
+<a href="#">
+    <img src="svg/dev/frameworks/blazor.svg" alt="Blazor" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
    <a href="#">
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
@@ -128,10 +131,7 @@
     <img src="svg/dev/misc/firefox.svg" alt="firefox" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-   <a href="#">
-    <img src="svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
+ 
    <a href="#">
     <img src="svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -140,9 +140,7 @@
     <img src="svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-   <a href="#">
-    <img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  
 
   <a href="#">
     <img src="svg/dev/misc/tablet.svg" alt="tablet" style="vertical-align:top; margin:6px 4px">
@@ -153,9 +151,6 @@
   </a>  
 
   
-   <a href="#">
-    <img src="svg/dev/misc/vr.svg" alt="vr" style="vertical-align:top; margin:6px 4px">
-  </a>  
 
 
    <a href="#">
@@ -242,3 +237,52 @@
 
 </p>
 
+## Social 
+<p align="left">
+
+
+  <a href="#">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+
+  <a href="#">
+    <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+  <a href="#">
+    <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+ 
+
+  <a href="#">
+    <img src="svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+<a href="#">
+    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>  
+     <a href="#">
+    <img src="svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
+  </a>   
+   <a href="#">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>   
+   <a href="#">
+    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+</p>
+
+--- 
