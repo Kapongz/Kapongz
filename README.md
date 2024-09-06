@@ -12,9 +12,7 @@
 ### Frameworks 
 
 <p align="left">
-<a href="#">
-    <img src="svg/dev/frameworks/blazor.svg" alt="Blazor" style="vertical-align:top; margin:6px 4px">
-  </a>  
+
 
    <a href="#">
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
