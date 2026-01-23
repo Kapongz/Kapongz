@@ -1,9 +1,20 @@
-<!-- Anime banner (GitHub-friendly horizontal layout) -->
+<div align="center">
+  <img src="png/anime1.gif" alt="avatar" height="120" style="border-radius:16px; box-shadow:0 8px 24px rgba(0,0,0,0.25);">
+  <h1 style="margin:10px 0 6px;">Pong Keosithong ✨</h1>
+  <p style="margin:0 0 8px; color:#586069;"><strong>Software Developer • Software Engineer</strong></p>
+  <p style="margin:6px 0 14px;">
+    <img src="https://img.shields.io/badge/Role-Developer-0078D7?style=flat-square" alt="role">&nbsp;
+    <img src="https://img.shields.io/badge/Focus-Web%20%26%20Game-29A745?style=flat-square" alt="focus">&nbsp;
+    <img src="https://img.shields.io/badge/Contact-Email-F7DF1E?style=flat-square" alt="contact">
+  </p>
+</div>
+
+<!-- Refined anime banner (horizontal, uniform sizing) -->
 <p align="center">
-  <img src="png/anime1.gif" alt="anime" height="180">
-  <img src="png/anime2.gif" alt="anime" height="180">
-  <img src="png/anime3.gif" alt="anime" height="180">
-  <img src="png/anime4.gif" alt="anime" height="180">
+  <img src="png/anime1.gif" alt="anime" height="140" style="margin:0 10px; border-radius:8px;">
+  <img src="png/anime2.gif" alt="anime" height="140" style="margin:0 10px; border-radius:8px;">
+  <img src="png/anime3.gif" alt="anime" height="140" style="margin:0 10px; border-radius:8px;">
+  <img src="png/anime4.gif" alt="anime" height="140" style="margin:0 10px; border-radius:8px;">
 </p>
 
 ---
