@@ -1,4 +1,4 @@
----
+<!-- Anime banner -->
 <div style="display: flex; justify-content: center; gap: 8px;">
   <img src="png/anime1.gif" alt="anime" style="max-height:200px;">
   <img src="png/anime2.gif" alt="anime" style="max-height:200px;">
