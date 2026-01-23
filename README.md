@@ -1,6 +1,4 @@
 ---
-
-## Anime
 <p align="center">
   <img src="png/anime1.gif" alt="anime" style="vertical-align:top; margin:6px 4px; max-height:200px">
   <img src="png/anime2.gif" alt="anime" style="vertical-align:top; margin:6px 4px; max-height:200px">
