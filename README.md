@@ -1,11 +1,10 @@
-<!-- Anime banner -->
-<div style="display: flex; justify-content: center; gap: 8px;">
-  <img src="png/anime1.gif" alt="anime" style="max-height:200px;">
-  <img src="png/anime2.gif" alt="anime" style="max-height:200px;">
-  <img src="png/anime3.gif" alt="anime" style="max-height:200px;">
-  <img src="png/anime4.gif" alt="anime" style="max-height:200px;">
-</div>
-
+<!-- Anime banner (GitHub-friendly horizontal layout) -->
+<p align="center">
+  <img src="png/anime1.gif" alt="anime" height="180">
+  <img src="png/anime2.gif" alt="anime" height="180">
+  <img src="png/anime3.gif" alt="anime" height="180">
+  <img src="png/anime4.gif" alt="anime" height="180">
+</p>
 
 ---
 
