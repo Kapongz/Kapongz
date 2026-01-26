@@ -1,6 +1,6 @@
 <div align="center">
   <img src="png/anime1.gif" alt="avatar" height="120" style="border-radius:16px; box-shadow:0 8px 24px rgba(0,0,0,0.25);">
-  <h1 style="margin:10px 0 6px;">Pong Keosithong ✨</h1>
+  <h1 style="margin:10px 0 6px;">Pong Keosithong ✨</h1> [![committers.top badge](https://user-badge.committers.top/laos/grapongz.svg)](https://user-badge.committers.top/laos/grapongz)
   <p style="margin:0 0 8px; color:#586069;"><strong>Software Developer • Software Engineer</strong></p>
   <p style="margin:6px 0 14px;">
     <img src="https://img.shields.io/badge/Role-Developer-0078D7?style=flat-square" alt="role">&nbsp;
